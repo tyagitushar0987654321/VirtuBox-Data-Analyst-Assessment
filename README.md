@@ -30,7 +30,7 @@ The dashboard includes:
 
 [View Sales Performance Dashboard](https://datastudio.google.com/u/0/reporting/5f390c18-bebd-4ded-b229-8c6294f06eda/page/TJh8F?s=gsBLO8zDDeo)
 
-The dashboard is publicly accessible through the above link.
+> **Note:** If the dashboard opens with a filtered or selected view, click the **Reset** button at the top of the dashboard to return to the default full-data management view.
 
 ### 4. Assessment Report (PDF)
 

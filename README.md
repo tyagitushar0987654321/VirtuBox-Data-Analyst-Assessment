@@ -1,17 +1,3 @@
-Update the README.md of my GitHub repository for the VirtuBox Data Analyst Assessment.
-
-IMPORTANT:
-- Do NOT change the GitHub repository name or repository URL.
-- Do NOT change or remove the existing Looker Studio dashboard URL.
-- Do NOT change any existing files.
-- Only improve/update README.md.
-- Keep the README professional, concise, and suitable for a Data Analyst job assessment.
-- Use proper Markdown headings, bullets, and clickable links.
-- Do not invent any additional deliverables, tools, results, or claims.
-- Keep the author as Tushar Tyagi.
-
-Use the following final README structure and content:
-
 # VirtuBox Data Analyst Assessment
 
 This repository contains my completed Data Analyst assessment for VirtuBox.

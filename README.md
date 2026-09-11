@@ -32,12 +32,15 @@ The dashboard includes:
 
 The dashboard is publicly accessible through the above link.
 
+### 4. Assessment Report (PDF)
+
+[View / Download Assessment Report (PDF)](https://drive.google.com/file/d/1R_BhnsSqvCYqvkxvahY4xqyWlkG5OxCa/view?usp=sharing)
+
 ## Tools & Technologies
 
 - Microsoft Excel / Google Sheets
 - Looker Studio (Data Studio)
 - GitHub
-
 
 ## Repository Contents
 
